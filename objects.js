@@ -5,3 +5,7 @@ var updatePlaylist = {"My Bloody Valentine":"Sometimes","Slowdive":"Alison","Phi
 function updatePlaylist(playlist, artistName, songTitle) {
   return Object[updatePlaylist]
 }
+
+function removeFromPlaylist(playlist, artistName) {
+  
+}
