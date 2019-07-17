@@ -9,3 +9,4 @@ function removeFromPlaylist(playlist, artistName) {
   playlist [artistName] = "Slowdive"
   return playlist
   }
+  
