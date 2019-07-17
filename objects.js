@@ -1,7 +1,7 @@
 var playlist = {"My Bloody Valentine":"Sometimes","Slowdive":"Alison"}
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  return playlist
+  return playlist, 'Phil Ochs'
 }
 
 function removeFromPlaylist(playlist, artistName) {
