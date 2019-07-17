@@ -1,4 +1,4 @@
-var playlist = {"My Bloody Valentine":"Phil Ochs" } 
+var playlist = {"My Bloody Valentine":"Slowdive" } 
 
 
 function updatePlaylist(artistName, songTitle) {
