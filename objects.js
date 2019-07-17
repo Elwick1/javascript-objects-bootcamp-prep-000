@@ -1,6 +1,6 @@
-var playlist = {"My Bloody Valentine":"Sometimes","Slowdive":"Alison" }
+var playlist = {"My Bloody Valentine":"Sometimes","Slowdive":"Alison","Phil Ochs":"Here's to the State of Mississippi" }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  'Phil Ochs':"Here's to the State of Mississippi"
+  
   return playlist
 }
